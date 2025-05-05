@@ -1,1 +1,8 @@
 hi // $tg:@xd_sergii
+
+install all release file
+part1 \ select all
+part2 = = = 7z/winrar create xxxX.iso 
+part3 / select all 
+... /
+size 2.65~gb
