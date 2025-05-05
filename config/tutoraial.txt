@@ -1,0 +1,4 @@
+config file -> usb flash drive (/autounattend.xml)
+config.xml -> autounattend.xml
+$$ config_0.8v.xml = for pc
+%% config_0.7v_ONLY-VMWARE.xml = for wm (ONLY VMWARE file, for virtual box soon :/)
